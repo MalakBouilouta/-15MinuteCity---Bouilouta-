@@ -10,3 +10,13 @@ To conduct this research, data was compiled from the city of Calgary’s open so
 Uploaded into the repository are files extracted from ArcGIS Pro post service area analysis (File Names: Service area_pharma, Service area_schools, Service area_trains, Service area_grocery). 
 
 Also included are maps created following analysis in order to visualize the service areas for each of the essential facilities (File Names: Grocery_Map, Schools_Map, Pharma_Map, Trains_Map, ServiceAreas_Map, FacilityHotspot_Map).
+
+
+Acknowledgement/Reference
+The City of Calgary. (2024, November 1). Transit LRT Stations. Data Calgary. https://data.calgary.ca/Transportation-Transit/Transit-LRT-Stations/2axz-xm4q/about_data
+
+Alberta Blue Cross. (2024, November 18). Vaccination Locations. Data Calgary. https://data.calgary.ca/Health-and-Safety/Vaccination-Locations/ynek-qdgh/about_data
+
+The City of Calgary. (2024, November 1). Schools. Data Calgary. https://data.calgary.ca/Services-and-Amenities/Schools/fd9t-tdn2/about_data
+
+Drew, H. (2024, October 18). Network Geodatabase. University of Calgary.
